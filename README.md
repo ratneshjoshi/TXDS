@@ -1,13 +1,8 @@
-# TXDS
+Code Repository for the paper:
 
-Auto-created from local folder TXDS
+Towards explainable dialogue systems: Explaining intent classification using saliency techniques.
 
-## Setup
+Authors: Joshi, Ratnesh Kumar, Arindam Chatterjee, and Asif Ekbal
 
-```bash
-pip install -r requirements.txt
-```
-
-## Notes
-
-Auto-created by `create_and_push_repos.py`.
+Conference: Proceedings of the 18th International Conference on Natural Language Processing (ICON). 2021 
+Link: https://aclanthology.org/2021.icon-main.16.pdf
